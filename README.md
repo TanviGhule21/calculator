@@ -1,3 +1,15 @@
+Deployment App : https://calculator-tanvighule21.vercel.app/
+
+preview :
+
+light mode :
+
+![calculator 1](https://user-images.githubusercontent.com/98412299/155671477-283c5f8a-f6e6-4e71-8469-acec524e57df.png)
+
+dark mode :
+
+![calculator 2](https://user-images.githubusercontent.com/98412299/155671523-9b6d6311-6810-4442-bc3b-22f5bfa0d930.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
